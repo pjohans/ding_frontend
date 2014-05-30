@@ -78,11 +78,6 @@ projects[l10n_update][type] = "module"
 projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "1.0"
 
-projects[ding_campaign][type] = "module"
-projects[ding_campaign][download][type] = "git"
-projects[ding_campaign][download][url] = "git@github.com:ding2tal/ding_campaign.git"
-projects[ding_campaign][download][branch] = "ddb-rc8"
-
 projects[ding_page][type] = "module"
 projects[ding_page][download][type] = "git"
 projects[ding_page][download][url] = "git@github.com:ding2tal/ding_page.git"
